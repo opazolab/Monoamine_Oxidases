@@ -1,1 +1,1 @@
-Here, you will find the files that support our results. To make this easy, we named the files so that it should be obvious to what result they correspond.
+Here, you will find the files that support our work entitled "Evolutionary and Functional Analysis of Monoamine Oxidase F (MAO F): A Novel Member of the MAO Gene Family" published in Genome Biology and Evolution. To make this easy, we named the files to be evident in their corresponding result.
